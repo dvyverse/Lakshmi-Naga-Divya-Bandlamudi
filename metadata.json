@@ -1,0 +1,6 @@
+{
+  "name": "Neon Blade: Fruit Cut Arcade",
+  "description": "A high-octane dark neon fruit slicing arcade game with realistic cutting physics, juice splatter effects, custom blade trails, bombs, combos, high-score leaderboards, and built-in AI demo music tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
